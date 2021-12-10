@@ -25,5 +25,4 @@ let renderCounter = () => {
 	);
 };
 
-// SetInterval to render the component every one second
 setInterval(renderCounter, 1000);
